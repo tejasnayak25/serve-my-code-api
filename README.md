@@ -46,6 +46,19 @@ require("fetch-my-code");
 Your receiver-end is now ready.
 Now, you just have to edit your repository and your app is automatically updated.
 
+### Important Notes :-
+1) An express js app is already running on the port (process.env.PORT || 9000). You can just use the same app for your project using the app variable.
+2) Local media can't be loaded yet. You may use the external URLs though.
+3) The static directory is declared by default. So any of your files in the static directory will be loaded whenever requested.
+4) Important Syntaxes:-
+```
+For static files:
+<script src="/static/hello.js"></script>
+
+For require statements:
+
+```
+
 ## Yep, this is it. No more leaking of code, no more mods, no more updates. Everything in your private repository.
 
 
