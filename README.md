@@ -56,6 +56,11 @@ For static files:
 <script src="/static/hello.js"></script>
 
 For require statements:
+1) For node_modules:
+Ex: require('express');
+
+2) For files:
+Ex: require("static/hello.js");
 
 ```
 
