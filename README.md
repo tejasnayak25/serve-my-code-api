@@ -19,7 +19,7 @@ Visit https://serve-my-code.onrender.com and login through GitHub.
 
 &nbsp;
 
-### Documentation
+### Products
 
 > #### Fetch My Code
 > > **Version:** 1.0.1 <br>
