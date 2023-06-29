@@ -44,3 +44,12 @@ Visit https://serve-my-code.onrender.com and login through GitHub.
 
 ### Notice
 Coming soon for Python, PHP and other languages.
+
+&nbsp;
+
+<br>
+<div align="center">
+Proudly created by Tejas Nayak
+
+[GitHub](https://github.com/tj-likes-coding) | [Instagram](https://instagram.com/tjnayak) | [Twitter](https://twitter.com/tjsmediacorner)
+</div>
