@@ -10,6 +10,10 @@ Serve-My-Code API lets you host your app's code on GitHub Repositories (includin
 ### Registration
 Visit https://serve-my-code.onrender.com and login through GitHub.
 
+<details>
+
+<summary>Fetch My Code</summary>
+
 ### Creating a project
 On login, you will be redirected to the dashboard.<br>
 1) Click on new project
@@ -63,6 +67,14 @@ Ex: require('express');
 Ex: require("static/hello.js");
 
 ```
+
+</details>
+
+<details>
+  <summary>Fetch My Code Electron</summary>
+
+  ### Coming Soon 
+</details>
 
 ## Yep, this is it. No more leaking of code, no more mods, no more updates. Everything in your private repository.
 
