@@ -56,8 +56,10 @@ Coming soon for Python, PHP and other languages.
 &nbsp;
 
 ### Donate - Help keep this service up
-Maintaining such a big service is difficult and requires constant work. Kindly donate and help us keep the service active.
-[<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/patreon.png" width="25"/>](https://patreon.com/tejasnayak25)
+Maintaining such a big service is difficult and requires constant work. Kindly donate and help us keep the service active. <br>
+[![image](https://github.com/tj-likes-coding/serve-my-code-api/assets/101463222/d956cf4b-3d5b-4f8b-961e-5bf83f80fa3c)](https://patreon.com/tejasnayak25)
+
+
 
 &nbsp;
 
