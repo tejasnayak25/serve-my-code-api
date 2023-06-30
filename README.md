@@ -57,10 +57,11 @@ Coming soon for Python, PHP and other languages.
 
 ### Donate - Help keep this service up
 Maintaining such a big service is difficult and requires constant work. Kindly donate and help us keep the service active. <br>
-<a href="https://patreon.com/tejasnayak25">
-<img src="https://github.com/tj-likes-coding/serve-my-code-api/assets/101463222/d956cf4b-3d5b-4f8b-961e-5bf83f80fa3c" alt="image">Patreon
-</a>
+> [<img width="35" src="https://github.githubassets.com/images/modules/site/icons/funding_platforms/patreon.svg">](https://patreon.com/tejasnayak25) <br>
+> [Patreon](https://patreon.com/tejasnayak25)
 
+> [<img width="35" src="https://github.githubassets.com/images/modules/site/icons/funding_platforms/liberapay.svg">](https://liberapay.com/tejasnayak25) <br>
+> [LiberaPay](https://liberapay.com/tejasnayak25)
 
 &nbsp;
 
