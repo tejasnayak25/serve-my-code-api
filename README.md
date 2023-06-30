@@ -3,6 +3,14 @@ Serve-My-Code API lets you host your app's code on GitHub Repositories (includin
 
 &nbsp;
 
+### Features or Advantages
+1) The important code stays online, i.e., the local app is just an empty shell.
+2) The app stays always updated. Updates are required only when the shell requires an update.
+3) Provides extra layers of code security.
+4) Reduces chances of modding, altering the code, hacking the software.
+
+&nbsp;
+
 ### Currently, it is available for NodeJS only.
 
 &nbsp;
