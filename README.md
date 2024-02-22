@@ -33,7 +33,7 @@ Visit https://serve-my-code.onrender.com and login through GitHub.
 > > **Version:** 1.0.1 <br>
 > > **License:** MIT <br>
 > > **Purpose:** For fetching code from private github repo and serving on website. <br>
-> > **Documentation:** https://github.com/tj-likes-coding/serve-my-code-api/wiki/Fetch-My-Code-%7C-Wiki <br>
+> > **Documentation:** https://github.com/tejasnayak25/serve-my-code-api/wiki/Fetch-My-Code-%7C-Wiki <br>
 > > **NPM:** https://www.npmjs.com/package/fetch-my-code
 > 
 >
@@ -41,7 +41,7 @@ Visit https://serve-my-code.onrender.com and login through GitHub.
 > > **Version:** 1.0.2 <br>
 > > **License:** MIT <br>
 > > **Purpose:** For fetching code from private github repo and serving on electron.js application. <br>
-> > **Documentation:** https://github.com/tj-likes-coding/serve-my-code-api/wiki/Fetch-My-Code-Electron-%7C-Wiki <br>
+> > **Documentation:** https://github.com/tejasnayak25/serve-my-code-api/wiki/Fetch-My-Code-Electron-%7C-Wiki <br>
 > > **NPM:** https://www.npmjs.com/package/fetch-my-code-electron
 
 &nbsp;
@@ -69,5 +69,5 @@ Maintaining such a big service is difficult and requires constant work. Kindly d
 <div align="center">
 Proudly created by Tejas Nayak
 
-[GitHub](https://github.com/tj-likes-coding) | [Instagram](https://instagram.com/tjnayak) | [Twitter](https://twitter.com/tjsmediacorner)
+[GitHub](https://github.com/tejasnayak25) | [Instagram](https://instagram.com/tjnayak) | [Twitter](https://twitter.com/tjsmediacorner)
 </div>
